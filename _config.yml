@@ -1,7 +1,7 @@
 # Site
 title:              YoonTru`s blog
-bio:                'Jekyll version of the YoonTru`s blog theme by HTML5UP'
-description:        "Jekyll version of the YoonTru`s blog theme by HTML5UP"
+bio:                'Jekyll version of the YoonTru`s blog'
+description:        "Jekyll version of the YoonTru`s blog"
 locale:             ko
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -12,8 +12,8 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
-instagram:          default
+facebook:           https://www.facebook.com/profile.php?id=100003556704484&ref=bookmarks
+instagram:          https://www.instagram.com/yoon_tru/
 github:             default
 
 # personal
