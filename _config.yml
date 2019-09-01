@@ -1,10 +1,10 @@
 # Site
-title:              YoonTru
-bio:                'Jekyll version of the YoonTru theme by HTML5UP'
-description:        "Jekyll version of the YoonTru theme by HTML5UP"
+title:              YoonTru's Blog
+bio:                'Jekyll version of the YoonTru's Blog theme by HTML5UP'
+description:        "Jekyll version of the YoonTru's Blog theme by HTML5UP"
 locale:             ko
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "https://yoontru.github.io/" # the subpath of your site, e.g. /blog
+url: "https://yoontru.github.io/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
@@ -17,10 +17,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Seoul, Ko
-phone:              310-318-5555
+location:           Seoul, Republic of Korea             
 email:              namys0507@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
-
+email2:             namys0507@naver.com
 # Other
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
