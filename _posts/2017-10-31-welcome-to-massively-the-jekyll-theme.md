@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to YoonTru`s blog"
 date:   2019-9-01
-excerpt: "이 블로그를 만드는데 도움을 준 마로에게 감사의 인사를 전합니다."
+excerpt: "이 블로그를 만드는데 도움을 준 [마로](https://marona42.github.io/)에게 감사의 인사를 전합니다."
 image: "/images/pic02.jpg"
 ---
 
