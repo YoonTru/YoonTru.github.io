@@ -3,8 +3,8 @@ title:              YoonTru's Blog
 bio:                'Jekyll version of the YoonTru's Blog theme by HTML5UP'
 description:        "Jekyll version of the YoonTru's Blog theme by HTML5UP"
 locale:             ko
-baseurl: "https://yoontru.github.io/" # the subpath of your site, e.g. /blog
-url: "https://yoontru.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
