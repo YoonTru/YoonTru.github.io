@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to YoonTru`s blog"
 date:   2019-9-01
-excerpt: "이 블로그를 만드는데 도움을 준 [마로](https://marona42.github.io/)에게 감사의 인사를 전합니다."
+excerpt: "이 블로그를 만드는데 도움을 준 마로에게 감사의 인사를 전합니다."
 image: "/images/pic02.jpg"
 ---
 
@@ -14,7 +14,7 @@ image: "/images/pic02.jpg"
 어디에 귀속되지 않은 저만의 블로그를 만들고 싶기도 했구요.
 그러던 중 제 친구가 [Github](https://github.com/)로 블로그를 만들어서 운영하기 시작하더라구요.
 '이거다!'했습니다. 제가 시간만 들인다면 제가 원하는 대로 커스터마이징을 할 수 있어보였구요.
-그래서 일단 시작해봤습니다. 친구를 귀찮게 하면서 말이죠.
+그래서 일단 시작해봤습니다. [친구](https://marona42.github.io/)를 귀찮게 하면서 말이죠.
 <!--```text```는 텍스트 주위에 블럭처리가 된다.-->
 <!--```
     text
