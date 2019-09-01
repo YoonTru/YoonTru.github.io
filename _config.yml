@@ -1,7 +1,7 @@
 # Site
-title:              YoonTru
-bio:                'Jekyll version of the YoonTru theme by HTML5UP'
-description:        "Jekyll version of the YoonTru theme by HTML5UP"
+title:              YoonTru`s blog
+bio:                'Jekyll version of the YoonTru`s blog theme by HTML5UP'
+description:        "Jekyll version of the YoonTru`s blog theme by HTML5UP"
 locale:             ko
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site

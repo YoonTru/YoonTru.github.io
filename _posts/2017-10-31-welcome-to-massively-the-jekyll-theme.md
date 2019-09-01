@@ -1,28 +1,35 @@
 ---
 layout: post
-title:  "Welcome to YoonTru"
+title:  "Welcome to YoonTru`s blog"
 date:   2019-9-01
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+excerpt: "이 블로그를 만드는데 도움을 준 마로에게 감사의 인사를 전합니다."
 image: "/images/pic02.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+##  블로그를 열면서
+2019년에 들어서 지금까지 한 활동들, 정보들을 정리하고 싶은 마음이 강하게 들기시작했습니다.
+<!--[text](주소)  하면 주소로 연결되는 text가 열린다.-->제 과거가 점점 잊혀지고, 남은게 없는 듯한 공허함이 저를 감싸고 있었기 때문이었죠.
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+그렇다고 다 죽어간 네이버 블로그를 다시 되살리기엔 너무 귀찮았습니다.
+어디에 귀속되지 않은 저만의 블로그를 만들고 싶기도 했구요.
+그러던 중 제 친구가 [Github](https://github.com/)로 블로그를 만들어서 운영하기 시작하더라구요.
+'이거다!'했습니다. 제가 시간만 들인다면 제가 원하는 대로 커스터마이징을 할 수 있어보였구요.
+그래서 일단 시작해봤습니다. 친구를 귀찮게 하면서 말이죠.
+<!--```text```는 텍스트 주위에 블럭처리가 된다.-->
+<!--```
+    text
+    ```를 하면 당연히 긴 블럭이 생긴다.-->
 
-Open a terminal window or a command line and ```cd``` to that location.
+## 어떤 글을 쓸까?
+### 일상 취미 주식 경제 공부
+위에서 언급했듯 이 블로그는 기록을 하고 싶어서 만든 곳입니다.
+그래서 아마 제 주위를 맴돌고 있는 것들을 하나하나 포스팅하지 않을까 싶습니다.
+주로 일상, 취미, 주식, 경제, 잡다한 공부한 내용 등을 포스팅하겠죠.
+각종 노트에 이것저것 기록을 해보긴 했지만 시간이 지나면 들춰보기 귀찮아지더라구요.
+여기에 포스팅을 하면 좀 더 깔끔하게 정리되고, 자주 볼 수 있지 않을까요? 일단 노트처럼 들고다닐 필요가 없으니까요. 
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+## 제 블로그를 방문해주시는 분들에게
+지금은 의욕만땅이라 꾸준하게 포스팅을 하고자 하는데 이게 얼마나 오래갈지는 모르겠습니다.
+그러니 가끔씩 들러서 초심을 잃지 않게 응원해주세요.
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+오늘도 방문해주셔서 감사합니다.
