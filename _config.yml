@@ -18,8 +18,8 @@ github:             default
 
 # personal
 location:           Seoul, Republic of Korea             
+phone:              010-1111-1111
 email:              namys0507@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
-email2:             namys0507@naver.com
 # Other
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
