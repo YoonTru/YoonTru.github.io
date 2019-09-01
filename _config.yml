@@ -12,8 +12,8 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           https://www.facebook.com/profile.php?id=100003556704484&ref=bookmarks
-instagram:          https://www.instagram.com/yoon_tru/
+facebook:           profile.php?id=100003556704484
+instagram:          yoon_tru/
 github:             default
 
 # personal
