@@ -84,6 +84,8 @@ image: "/images/2019-09-02/5.jpg"
 한국에서도 왓챠플레이(영화), 이노쉐이브(면도용품), 딜리셔츠(셔츠), 미하이삭스(양말), 꾸까(꽃), 플라이북(책), 퍼플독(와인), 돌로박스(반려동물용품) 등 다양한 구독 서비스를 운영하는 기업이 활동하고 있습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-02/4.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="5u"><span class="image fit"><img src="{{ "/images/2019-09-02/4.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
+
+오늘도 방문하셔서 긴 글 읽어주신 것에 감사합니다.
