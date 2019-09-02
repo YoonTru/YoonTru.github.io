@@ -122,7 +122,7 @@ image: "/images/2019-09-01/1.jpg"
 스마트폰이 보편화되기 시작한 2010년대 초의 상황을 보면 4G가 상용을 시작함에 따라 전송속도가 75Mbps~1Gbps 수준에 도달하면서 영상을 보는데 불편함이 사라지기 시작했습니다. <br>
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="6u"><span class="image fit"><img src="{{ "/images/2019-09-01/3.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/3.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 이로인해 출시 이후 2009년까지 적자를 연간 약 4억5천만 달러 수준을 기록하던 YouTube가 2010년을 기점으로 흑자로 돌아섰습니다. 이후 YouTube는 2019년 현재 사용자 19억 명, 비디오 조회 수 매일 1억 번, 하루 사용시간 10억 시간 이상, 1인당 시청시간 월평균 16시간 이상 등을 기록하며 신문, 라디오, TV의 기능을 대체한 전 세계 최대의 [비디오 플랫폼](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=028&aid=0002421754)으로 자리잡았습니다.  
@@ -133,21 +133,21 @@ image: "/images/2019-09-01/1.jpg"
 2016년 글로벌 시장 도전을 선언한 Netflix는 현재 190여 개국에서 서비스를 하며 가파른 성장세를 보이고 있습니다. 
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="4u$"><span class="image fit"><img src="{{ "/images/2019-09-01/6.PNG" | absolute_url }}" alt="" /></span></div><br>
-		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/9.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u$"><span class="image fit"><img src="{{ "/images/2019-09-01/6.PNG" | absolute_url }}" alt="" /></span></div><br>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/9.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>   
 
 Netfilx 2016년 초 한국 시장에 진출하며 한국 사람들에게 인식되기 시작하였으며, 2018년 2월 485,000명이었던 이용자 수가 올해 2월 2,402,000명으로 약 4.95배 증가하였습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/7.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/7.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 이러한 현상은 올해 1월 25일 공개된 '킹덤'과 같은 [콘텐츠의 힘](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=469&aid=0000375965)이 컸습니다. 이에 따라 콘텐츠의 중요성이 점점 높아지기 시작하였습니다. 이는 올해 3월 18일 넷플릭스의 [콘텐츠 전략을 소개하는 자리](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=025&aid=0002892720)에서 확인할 수 있었습니다. 이 자리에서 리드 헤이스팅스 ceo는 "우린 기술(플랫폼) 기업이 아니라, 디즈니 같은 미디어 기업"이라고 선언했습니다. 실제로 넷플릭스는 매년 오리지널 콘텐츠에 막대한 투자를 하고 있습니다.  2018년 매출(157억9천만 달러)의 약 75%인 120억 달러를 투자하였습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/5.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/5.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 
@@ -159,14 +159,14 @@ Netfilx 2016년 초 한국 시장에 진출하며 한국 사람들에게 인식�
 Disney는 2018년 폭스 인수전을 통해 Hulu를 손에 넣으며 본격적으로 시장에 참여하였습니다. 디즈니픽처스, 마블스튜디오, 21세기폭스, 픽사 등을 보유하고 있는 Disney는 콘텐츠만으로 보면 압도적인 모습을 보여주고 있습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/8.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/8.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 이러한 풍부한 콘텐츠를 활용하여 디즈니는 세가지 스트리밍 서비스를 제공 및 기획 중에 있습니다. [Hulu](https://www.hulu.com/)를 2019년 내로 글로벌 서비스를 시작할 계획이고, 2018년 4월 12일부터 스포츠 전문 스트리밍 서비스를 시작한 ESPN+을 통해 MLB, NHL, MLS 등 인기 스포츠 10,000개 이상의 경기를 제공하고 있으며, 올해 후반기 Disney +를 통해 자신이 보유한 풍부한 콘텐츠를 스트리밍 할 예정입니다.  
 이러한 비전이 발표된 올해 4월 이후 Disney의 주가 또한 상승하는 움직임을 보여주기도 하였습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/10.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/10.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 
@@ -187,14 +187,14 @@ YouTube는 현재 구축된 YouTube 생태계를 유지함과 함께 영상매�
 ### 축구 5대 리그의 수익과 EPL TV 중계권료  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/12.png" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/12.png" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 축구 5대 리그, 영국, 독일, 스페인, 이탈리아, 프랑스 리그의 수익을 보면 꾸준히 
 상승세를 유지하고 있으며 특히 2014년을 기점으로 영국, 독일, 스페인 리그의 수익이 급격히 증가함을 볼 수 있습니다. 특히 영국 리그 EPL의 수입이 폭발적으로 증가하였습니다. 이러한 현상의 원인 중 하나를 TV 중계권료 변화에서 찾을 수 있었습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/13.png" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/13.png" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 
