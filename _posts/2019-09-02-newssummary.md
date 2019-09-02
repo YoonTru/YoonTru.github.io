@@ -3,7 +3,7 @@ layout: post
 title:  "한경 요약"
 date:   2019-9-02
 excerpt: "수출 감소·미중 무역·구독경제"
-image: "/images/2019-09-02/.jpg"
+image: "/images/2019-09-02/5.jpg"
 ---
   
 한경 요약
