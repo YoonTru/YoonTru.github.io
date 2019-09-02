@@ -13,7 +13,7 @@ image: "/images/2019-09-02/5.jpg"
 ### 3개월 연속 두 자릿수 감소  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-02/1.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="6u"><span class="image fit"><img src="{{ "/images/2019-09-02/1.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>
 
@@ -68,7 +68,7 @@ image: "/images/2019-09-02/5.jpg"
 시장조사 업체 가트너는 2023년에 전 세계 기업의 75%가 구독 서비스를 제공할 것으로 예상했습니다. 또한 주오라가 산출하는 '구독경제지수(SEI)'에 포함된 기업의 매출은 2012년 이후 2018년까지 연평균 18% 증가했습니다. 같은 기간 S&P500 기업들의 연평균 매출 증가율은 3.8%를 크게 웃돌았습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/3.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-02/3.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
 
@@ -84,6 +84,6 @@ image: "/images/2019-09-02/5.jpg"
 한국에서도 왓챠플레이(영화), 이노쉐이브(면도용품), 딜리셔츠(셔츠), 미하이삭스(양말), 꾸까(꽃), 플라이북(책), 퍼플독(와인), 돌로박스(반려동물용품) 등 다양한 구독 서비스를 운영하는 기업이 활동하고 있습니다.  
 <div class="box alt">
 	<div class="row 100% uniform">
-		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-01/4.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="10u"><span class="image fit"><img src="{{ "/images/2019-09-05/4.jpg" | absolute_url }}" alt="" /></span></div>
 	</div>
 </div>  
