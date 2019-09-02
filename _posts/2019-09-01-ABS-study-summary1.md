@@ -120,8 +120,10 @@ image: "/images/2019-09-01/1.jpg"
 
 ## 플랫폼의 제왕 YouTube
 스마트폰이 보편화되기 시작한 2010년대 초의 상황을 보면 4G가 상용을 시작함에 따라 전송속도가 75Mbps~1Gbps 수준에 도달하면서 영상을 보는데 불편함이 사라지기 시작했습니다. <br>
-<div class="row 50% uniform">
-	<div class="4u"><span class="image fit"><img scr="{{"/images/2019-09-01/3.jpg" | absolute_url }}" alt=""/></span></div>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{{ "/images/2019-09-01/3.jpg" | absolute_url }}" alt="" /></span></div>
+	</div>
 </div>  
 이로인해 출시 이후 2009년까지 적자를 연간 약 4억5천만 달러 수준을 기록하던 YouTube가 2010년을 기점으로 흑자로 돌아섰습니다. 이후 YouTube는 2019년 현재 사용자 19억 명, 비디오 조회 수 매일 1억 번, 하루 사용시간 10억 시간 이상, 1인당 시청시간 월평균 16시간 이상 등을 기록하며 신문, 라디오, TV의 기능을 대체한 전 세계 최대의 [비디오 플랫폼](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=028&aid=0002421754)으로 자리잡았습니다.  
 하지만, 최근에 [Netflix](https://www.netflix.com/browse)를 필두로, [Walt Disney](http://www.disney.co.kr/home/index.jsp), [amazon](https://www.amazon.com/), [Apple](https://www.apple.com/) 등 경쟁자들이 등장하고 있습니다.
